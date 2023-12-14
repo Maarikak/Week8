@@ -1,0 +1,14 @@
+C:\Users\Maarika\source\repos\Week8_functionswtihreturn\Week8_functionswtihreturn\bin\Debug\net6.0\Week8_functionswtihreturn.exe
+C:\Users\Maarika\source\repos\Week8_functionswtihreturn\Week8_functionswtihreturn\bin\Debug\net6.0\Week8_functionswtihreturn.deps.json
+C:\Users\Maarika\source\repos\Week8_functionswtihreturn\Week8_functionswtihreturn\bin\Debug\net6.0\Week8_functionswtihreturn.runtimeconfig.json
+C:\Users\Maarika\source\repos\Week8_functionswtihreturn\Week8_functionswtihreturn\bin\Debug\net6.0\Week8_functionswtihreturn.dll
+C:\Users\Maarika\source\repos\Week8_functionswtihreturn\Week8_functionswtihreturn\bin\Debug\net6.0\Week8_functionswtihreturn.pdb
+C:\Users\Maarika\source\repos\Week8_functionswtihreturn\Week8_functionswtihreturn\obj\Debug\net6.0\Week8_functionswtihreturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarika\source\repos\Week8_functionswtihreturn\Week8_functionswtihreturn\obj\Debug\net6.0\Week8_functionswtihreturn.AssemblyInfoInputs.cache
+C:\Users\Maarika\source\repos\Week8_functionswtihreturn\Week8_functionswtihreturn\obj\Debug\net6.0\Week8_functionswtihreturn.AssemblyInfo.cs
+C:\Users\Maarika\source\repos\Week8_functionswtihreturn\Week8_functionswtihreturn\obj\Debug\net6.0\Week8_functionswtihreturn.csproj.CoreCompileInputs.cache
+C:\Users\Maarika\source\repos\Week8_functionswtihreturn\Week8_functionswtihreturn\obj\Debug\net6.0\Week8_functionswtihreturn.dll
+C:\Users\Maarika\source\repos\Week8_functionswtihreturn\Week8_functionswtihreturn\obj\Debug\net6.0\refint\Week8_functionswtihreturn.dll
+C:\Users\Maarika\source\repos\Week8_functionswtihreturn\Week8_functionswtihreturn\obj\Debug\net6.0\Week8_functionswtihreturn.pdb
+C:\Users\Maarika\source\repos\Week8_functionswtihreturn\Week8_functionswtihreturn\obj\Debug\net6.0\Week8_functionswtihreturn.genruntimeconfig.cache
+C:\Users\Maarika\source\repos\Week8_functionswtihreturn\Week8_functionswtihreturn\obj\Debug\net6.0\ref\Week8_functionswtihreturn.dll
